@@ -4,9 +4,7 @@ Conta|User| Senha
 -----|----|------
 https://brazilclass1seat1.signin.aws.amazon.com/console | bra1 | Masters_2019_1
 
-Conta: https://brazilclass1seat2.signin.aws.amazon.com/console
-User: bra2
-Senha: Masters_2019_2
+https://brazilclass1seat2.signin.aws.amazon.com/console | bra2 | Masters_2019_2
 
 Conta: https://brazilclass1seat3.signin.aws.amazon.com/console
 User: bra3
