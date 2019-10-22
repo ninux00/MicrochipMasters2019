@@ -1,8 +1,8 @@
 Region: us-east-1
 
-Conta: https://brazilclass1seat1.signin.aws.amazon.com/console
-User: bra1
-Senha: Masters_2019_1
+Conta|User| Senha
+-----|----|------
+https://brazilclass1seat1.signin.aws.amazon.com/console | bra1 | Masters_2019_1
 
 Conta: https://brazilclass1seat2.signin.aws.amazon.com/console
 User: bra2
