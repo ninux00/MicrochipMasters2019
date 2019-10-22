@@ -1,6 +1,6 @@
 Region: us-east-1
 
-Conta: brazilclass1seat1.signin.aws.amazon.com/console
+Conta: https://brazilclass1seat1.signin.aws.amazon.com/console
 User: bra1
 Senha: Masters_2019_1
 
